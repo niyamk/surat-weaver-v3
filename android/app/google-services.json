@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "152669265070",
+    "project_id": "surat-weavers-v3",
+    "storage_bucket": "surat-weavers-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152669265070:android:fdabf9bcf41bf46be7e13f",
+        "android_client_info": {
+          "package_name": "com.example.surat_weavers_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152669265070-sj22fqd2a65ftp0pi0id9cvjjtjphthn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surat_weavers_v3",
+            "certificate_hash": "dcc34046ed88228a0b1071c2377f16ed0395bbf0"
+          }
+        },
+        {
+          "client_id": "152669265070-nm72h67bs1junv1faem9qrgl2evtrbup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQx9L-5EYCB4HbM5xrE9ClK4pUPLZX8nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152669265070-nm72h67bs1junv1faem9qrgl2evtrbup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
